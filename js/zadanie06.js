@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     button_2.addEventListener('click', function() {
-        shoppingArray.removeChild(shoppingArray.children[shopppingList.children.length-1]);
+        shoppingArray.removeChild(shoppingArray.children[shoppingArray.children.length-1]);
     });
 
     button_3.addEventListener('click', function() { 
